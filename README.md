@@ -1,1 +1,1 @@
-Django blog app
+Simple Django blog example that uses in-memory posts and basic templates/styles.
